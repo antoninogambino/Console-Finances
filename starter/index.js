@@ -86,3 +86,52 @@ var finances = [
   ['Jan-2017', 138230],
   ['Feb-2017', 671099],
 ];
+
+// Total Months section
+var totalMonths = finances.length;
+
+console.log(`Total Months: ${totalMonths}`);
+
+// Total of dollars amount
+let total = 0;
+
+for (let i = 0; i < finances.length; i++) {
+  total += finances[i][1];
+}
+
+console.log(`Total: $${total}`);
+
+// Total Average Change
+let totalChange = 0;
+for(let i=1; i<finances.length; i++){
+  totalChange += finances[i][1] - finances[i-1][1];
+}
+
+let averageChange = (totalChange / (finances.length - 1)).toFixed(2);
+console.log(`Average Change: $${averageChange}`);
+
+// Increase Profits/Losses
+let maxIncrease = finances[0][1];
+let maxIncreaseMonth = finances[0][0];
+
+for (let i = 1; i < finances.length; i++) {
+  if (finances[i][1] - finances[i-1][1] > maxIncrease) {
+    maxIncrease = finances[i][1] - finances[i-1][1];
+    maxIncreaseMonth = finances[i][0];
+  }
+}
+
+console.log(`Greatest Increase in Profits/Losses: ${maxIncreaseMonth} ($${maxIncrease})`);
+
+// Decrease Profit/Losses
+let minProfit = finances[0][1];
+let minMonth = finances[0][0];
+
+for (let i = 1; i < finances.length; i++) {
+  if (finances[i][1] < minProfit) {
+    minProfit = finances[i][1];
+    minMonth = finances[i][0];
+  }
+}
+
+console.log(`Greatest Decrease in Profits/Losses: ${minMonth} ($${minProfit})`);
