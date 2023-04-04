@@ -20,13 +20,13 @@ This project was developed using only HTML and javascript files - with the addit
 
 This challenge was an opportunity to put in action what we have been discussed in the past week. Moreover, this challenge offered me an introduction to understand how to apply javascript and how it works. I still need to empower the concept but I am happy with the result. I followed the requirements which was requesting the following:
 
-Financial Analysis 
-  ----------------
-  Total Months: 86
-  Total: $38382578
-  Average Change: -2315.12
-  Greatest Increase in Profits/Losses: Feb-2012 ($1926159)
-  Greatest Decrease in Profits/Losses: Sep-2013 ($-2196167)
+Financial Analysis
+----------------
+Total Months: 86
+Total: $38382578
+Average Change: -2315.12
+Greatest Increase in Profits/Losses: Feb-2012 ($1926159)
+Greatest Decrease in Profits/Losses: Sep-2013 ($-2196167)
 
 I had here an opportunity to deeply research how to get this executed even though I could not figure out on how to make the "Greatest Decrease in Profits/Losses" to match the value that it was requested to find.
 
