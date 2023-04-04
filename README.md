@@ -32,10 +32,13 @@ Financial Analysis
 
   I would need to look into this even more and make sure I understand javascript 100% - Currently I am at the beginning of learning and understanding the concept of this type of coding.
 
-Review
+**Review**
 
 URL: https://antoninogambino.github.io/Console-Finances/
 
 GitHub deployed repository: https://github.com/antoninogambino/Console-Finances.git
 
-Deployed website screenshot
+**Deployed website screenshot with console open showing javascript**
+
+![image](https://user-images.githubusercontent.com/112243266/229919340-325382d5-6e11-4967-9a3e-e19ac22bd97e.png)
+
