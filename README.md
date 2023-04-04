@@ -34,10 +34,8 @@ Financial Analysis
 
 Review
 
-URL: https://antoninogambino.github.io/my-portfolio/
+URL: 
 
-GitHub deployed repository: https://github.com/antoninogambino/my-portfolio.git
-
-URL previous portfolio without bootstrap: https://antoninogambino.github.io/my-portfolio/
+GitHub deployed repository: 
 
 Deployed website screenshot
