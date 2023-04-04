@@ -34,8 +34,8 @@ Financial Analysis
 
 Review
 
-URL: 
+URL: https://antoninogambino.github.io/Console-Finances/
 
-GitHub deployed repository: 
+GitHub deployed repository: https://github.com/antoninogambino/Console-Finances.git
 
 Deployed website screenshot
