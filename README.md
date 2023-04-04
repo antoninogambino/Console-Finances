@@ -28,9 +28,9 @@ Financial Analysis
   Greatest Increase in Profits/Losses: Feb-2012 ($1926159)
   Greatest Decrease in Profits/Losses: Sep-2013 ($-2196167)
 
-  I had here an opportunity to deeply research how to get this executed even though I could not figure out on how to make the "Greatest Decrease in Profits/Losses" to match the value that it was requested to find.
+I had here an opportunity to deeply research how to get this executed even though I could not figure out on how to make the "Greatest Decrease in Profits/Losses" to match the value that it was requested to find.
 
-  I would need to look into this even more and make sure I understand javascript 100% - Currently I am at the beginning of learning and understanding the concept of this type of coding.
+I would need to look into this even more and make sure I understand javascript 100% - Currently I am at the beginning of learning and understanding the concept of this type of coding.
 
 **Review**
 
